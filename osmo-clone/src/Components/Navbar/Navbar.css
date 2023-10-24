@@ -1,0 +1,10 @@
+.hide
+{
+    display: none;
+}
+/*css for the tooltip*/
+.div1 .div2 .div3 .incorp:hover +  .hide
+{
+ display: block;
+ color: blue
+}
