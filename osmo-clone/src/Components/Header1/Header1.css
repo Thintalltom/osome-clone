@@ -1,0 +1,34 @@
+.man1{
+    clip-path:circle() ;
+    width: 80px;
+    z-index: 0;
+}
+.man2{
+    clip-path:circle() ;
+    width: 80px;
+    z-index: 20;
+    margin-left: -20px;
+}
+.man3{
+    clip-path:circle() ;
+    width: 80px;
+    z-index: 40;
+    margin-left: -20px;
+}
+
+@media only screen and (max-width: 600px) {
+.man1{
+    width: 40px;
+}
+.man2{
+    width: 40px;
+}
+.man3
+{
+    width: 40px;
+}
+.Sscreen{
+ width: 300px;
+ max-height: 70%;
+}
+}
