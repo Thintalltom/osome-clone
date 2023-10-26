@@ -1,0 +1,35 @@
+@media only screen and (max-width: 600px) {
+    .numbers
+    {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    #osomeMan
+    {
+       height: 300px;
+       
+    }
+    .imgCase
+    {
+        padding: 10px;
+
+    }
+    #box {
+            width: 300px;
+            padding: 10px;
+            
+    }
+    #customerReview
+    {
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        gap: 20px;
+    }
+    #customerRBox
+    {
+        width: 300px;
+        height: 350px;
+    }
+}

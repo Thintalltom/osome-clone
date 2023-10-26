@@ -5,6 +5,7 @@ import Doing from './Components/DoingSection/Doing'
 import Help from './Components/Help/Help'
 import Choose from './Components/Choose/Choose'
 import Testimonial from './Components/Testimonial/Testimonial'
+import Footer from './Components/Footer/Footer'
 import './App.css'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
   <Help />
   <Choose />
   <Testimonial />
+  <Footer />
     </>
   )
 }

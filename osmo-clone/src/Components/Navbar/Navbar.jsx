@@ -73,7 +73,7 @@ const Navbar = () => {
         className={
           open
             ? "hidden"
-            : `flex-col flex w-full h-screen z-[80]   gap-4 p-4 xs:w-full xs:h-screen 2xl:hidden lg:hidden mt-[50px]   xs:h-screen md:h-screen bg-slate-100 absolute top-0 left-0`
+            : `flex-col flex w-full h-screen z-[80]   gap-4 p-4 xs:w-full sm:h-screen xs:h-screen 2xl:hidden lg:hidden mt-[50px]   xs:h-screen md:h-screen bg-slate-100 absolute top-0 left-0`
         }
       >
         <li className="list-none font-medium text-xl"   onClick={handleMouseOver} >Incorporation</li>
