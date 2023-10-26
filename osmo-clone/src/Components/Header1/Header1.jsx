@@ -4,6 +4,7 @@ import "./Header1.css";
 import { FcGoogle } from "react-icons/fc";
 import { FaStar } from "react-icons/fa";
 
+
 const Header1 = () => {
   return (
     <div className="text-center bg-amber-50 w-full h-full ">
@@ -53,7 +54,8 @@ const Header1 = () => {
       </div>
 
       <div className="flex justify-center items-center mt-4 sScreen">
-          <img className="rounded-[20px] Sscreen" src={'https://strapi-cdn.osome.com/full_intro_sg_main_desktop_bcbe03c533.webp'} />
+          <img className="rounded-[20px] Sscreen lg:block sm:hidden" src={'https://strapi-cdn.osome.com/full_intro_sg_main_desktop_bcbe03c533.webp'} />
+     
       </div>
     </div>
   );

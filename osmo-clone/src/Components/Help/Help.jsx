@@ -45,9 +45,9 @@ const Help = () => {
               src={
                 "https://strapi-cdn.osome.com/full_content_picture_working_people_7fc4405dd6.webp"
               }
-              className="w-[400px] otherImage2"
+              className="w-[400px] otherImage3"
             />
-            <p className="font-medium lg:text-3xl sm:text-sm text-center mt-4">
+            <p className="font-medium lg:text-3xl sm:text-sm text-center mt-4 coloText">
               Business owners who know their needs <br /> and value quality service
             </p>
           </div>
@@ -67,7 +67,7 @@ const Help = () => {
               }
               className="w-[300px] otherImage2"
             />
-            <p className="font-medium lg:text-3xl sm:text-sm text-center mt-4">
+            <p className="font-medium lg:text-3xl sm:text-sm text-center mt-4 coloText">
               Business owners who know their needs <br /> and value quality service
             </p>
           </div>

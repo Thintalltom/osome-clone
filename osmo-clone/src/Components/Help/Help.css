@@ -29,9 +29,12 @@
         display: flex;
         flex-direction: column-reverse;
     }
-    .coloText
+    .smallColo .coloText
     {
         font-size: 20px;
+    }
+    .otherImage3{
+        width:300px
     }
 
  

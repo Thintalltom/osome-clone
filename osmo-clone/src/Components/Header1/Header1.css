@@ -27,8 +27,11 @@
 {
     width: 40px;
 }
+.sScreen{
+    padding: 20px;
+}
 .sScreen .Sscreen{
- width: 300px;
- max-height: 800px;
+ width: 350px;
+ height: 350px;
 }
 }
