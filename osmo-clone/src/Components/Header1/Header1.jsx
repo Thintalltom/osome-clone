@@ -1,6 +1,5 @@
 import React from "react";
 import "./Header1.css";
-
 import { FcGoogle } from "react-icons/fc";
 import { FaStar } from "react-icons/fa";
 
