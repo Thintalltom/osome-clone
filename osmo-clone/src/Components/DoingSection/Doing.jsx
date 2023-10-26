@@ -4,10 +4,10 @@ import './Doings.css'
 
 const Doing = () => {
   return (
-    <div className=" w-full h-screen bg-amber-50 p-4">
-      <div>
-        <p className="text-center text-slate-500">WHAT WE DO</p>
-        <p className="text-center lg:text-5xl lg:font-medium sm:text-4xl sm:font-bold">
+    <div className=" w-full h-screen bg-amber-50 p-4 ">
+      <div className="theScreen">
+        <p className="text-center text-slate-500 "  id='what'>WHAT WE DO</p>
+        <p className="text-center lg:text-5xl lg:font-medium sm:text-4xl sm:font-bold" id='stage'>
           Flexible services for every <br /> stage of your business
         </p>
       </div>

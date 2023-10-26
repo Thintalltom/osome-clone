@@ -2,8 +2,20 @@
     #smallScreen
     {
         display: none;
-    
         
+    }
+    #stage 
+    {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    #what
+    {
+        font-size: smaller;
+    }
+    .theScreen
+    {
+        margin-top: 20px;
     }
  
 

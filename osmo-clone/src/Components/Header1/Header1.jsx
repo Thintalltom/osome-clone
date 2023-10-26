@@ -7,7 +7,7 @@ import { FaStar } from "react-icons/fa";
 const Header1 = () => {
   return (
     <div className="text-center bg-amber-50 w-full h-full ">
-      <p className="lg:text-6xl text-2xl font-medium">
+      <p className="lg:text-6xl text-2xl font-bold">
         Hassle-free incorporation <br />
         <div className="flex mt-[-10px] container justify-center items-center">
           <p>and expert accounting </p>
@@ -52,7 +52,7 @@ const Header1 = () => {
         <p>569 Reviews</p>
       </div>
 
-      <div className="flex justify-center items-center mt-4">
+      <div className="flex justify-center items-center mt-4 sScreen">
           <img className="rounded-[20px] Sscreen" src={'https://strapi-cdn.osome.com/full_intro_sg_main_desktop_bcbe03c533.webp'} />
       </div>
     </div>

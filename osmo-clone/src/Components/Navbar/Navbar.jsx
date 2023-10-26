@@ -17,7 +17,7 @@ const Navbar = () => {
     setIsOpen(!isOpen);
   };
   return (
-    <div className="bg-white-500 w-full h-[100px]  cursor-pointer">
+    <div className="bg-white-500 w-full h-[80px]  cursor-pointer">
       <div className="lg:flex justify-around   p-4  hidden">
         <img src={'https://osome.com/assets/img/logo/osome-logo-text.svg'} />
         <div className="flex gap-9  text-slate-900 font-medium text-xl">

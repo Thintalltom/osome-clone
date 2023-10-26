@@ -27,8 +27,8 @@
 {
     width: 40px;
 }
-.Sscreen{
+.sScreen .Sscreen{
  width: 300px;
- max-height: 70%;
+ max-height: 800px;
 }
 }
