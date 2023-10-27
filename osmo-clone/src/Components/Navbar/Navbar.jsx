@@ -60,6 +60,7 @@ const Navbar = () => {
         <div>
         <img src={'https://osome.com/assets/img/logo/osome-logo-text.svg'} />
         </div>
+       
 
         <div
           className="lg:hidden md:block text-lg cursor-pointer  z-10"

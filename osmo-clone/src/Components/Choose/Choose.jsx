@@ -4,7 +4,7 @@ import './Choose.css'
 
 const Choose = () => {
   return (
-    <div className='bg-amber-50 w-full  p-4'>
+    <div className='bg-amber-50  p-4'>
 
         <div className=' flex justify-center items-center p-4'>
             <div className=' w-[600px]'>

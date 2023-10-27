@@ -6,7 +6,7 @@ import './Testimonials.css'
 const Testimonial = () => {
   return (
     <div>
-      <div className="p-4">
+      <div className="p-4 testimon">
         <p className="text-slate-500 text-center ">TESTIMONIALS</p>
         <p className="text-center text-3xl font-bold">
           {" "}
@@ -51,11 +51,11 @@ const Testimonial = () => {
           </div>
           <div className="bg-slate-200 w-[700px] h-[400px] rounded-[20px] p-4 "  id="customerRBox">
             <p className="text-slate-500">REVIEW</p>
-            <p className="text-3xl text-slate-900 mt-4">
+            <p className="text-3xl text-slate-900 mt-4" id='smallerText'>
               “The good thing about Osome is that it saves a lot of time so I
               can do other things – the running of the business part.”
             </p>
-            <p className="mt-[180px]">Jennifer Widjala</p>
+            <p className="mt-[180px]" id='jenny'>Jennifer Widjala</p>
           </div>
         </div>
       </div>

@@ -6,7 +6,7 @@ import { FaStar } from "react-icons/fa";
 
 const Header1 = () => {
   return (
-    <div className="text-center bg-amber-50 w-full h-full ">
+    <div className="text-center bg-amber-50 w-full p-4 h-full ">
       <p className="lg:text-6xl text-2xl font-bold">
         Hassle-free incorporation <br />
         <div className="flex mt-[-10px] container justify-center items-center">
